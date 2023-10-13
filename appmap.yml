@@ -1,0 +1,5 @@
+name: calculator
+appmap_dir: tmp/appmap
+packages:
+- path: org.superbiz.remote
+
